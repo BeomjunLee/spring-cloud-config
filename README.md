@@ -1,3 +1,3 @@
 ## spring-cloud-config
 
-spring-cloud-config 설정 파일
+Spring Cloud Config Server 설정 파일
