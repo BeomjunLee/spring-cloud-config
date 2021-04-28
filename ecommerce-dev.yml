@@ -1,7 +1,7 @@
 jwt:
   secretKey : mircoservicesJwtTestSecretKeyWithSpringCloud
   #1h
-  accessToken-valid-seconds : 600
+  accessToken-valid-seconds : 1200
   #24h
   refreshToken-valid-seconds : 86400
 
