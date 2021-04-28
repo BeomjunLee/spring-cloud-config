@@ -1,0 +1,12 @@
+jwt:
+  secretKey : mircoservicesJwtTestSecretKeyWithSpringCloud
+  #1h
+  accessToken-valid-seconds : 600
+  #24h
+  refreshToken-valid-seconds : 86400
+
+gateway:
+  ip: 192.168.0.8
+
+order_service:
+  url: "http://127.0.0.1:8000/order-service/%s/orders"
