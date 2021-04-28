@@ -10,4 +10,3 @@ gateway:
 
 order_service:
   url: "http://order-service/order-service/%s/orders"
-
